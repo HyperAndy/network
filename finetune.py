@@ -2,7 +2,6 @@
 import os
 import sys
 import glob
-import argparse
 # import matplotlib.pyplot as plt
 
 from keras.applications.inception_v3 import InceptionV3, preprocess_input
