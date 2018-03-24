@@ -3,8 +3,6 @@ import pandas as pd
 import cv2
 from tqdm import tqdm
 import random
-from sklearn.utils import shuffle
-from sklearn.model_selection import train_test_split
 import os
 import shutil
 from PIL import Image
